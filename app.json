@@ -16,8 +16,5 @@
 			"description": "URL of upstream server to which all requests should be proxied"
 		}
 	},
-	"stack": "cedar-14",
-	"scripts": {
-            "postdeploy": "mkdir nginx-cache"
-        }
+	"stack": "cedar-14"
 }
