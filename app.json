@@ -18,6 +18,6 @@
 	},
 	"stack": "cedar-14",
 	"scripts": {
-            "postdeploy": "mkdir ~/nginx-cache"
+            "postdeploy": "mkdir nginx-cache"
         }
 }
